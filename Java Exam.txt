@@ -1,0 +1,85 @@
+﻿Q 1) Ans – C (JRE) 
+
+Q 2) Ans – C (Then)
+
+Q 3) Ans – B (Class) 
+
+Q 4) Ans -  A , B , C 
+
+Q 5) Ans -  C (Boolean) 
+
+Q 6) Ans –  A (Hierarchical)  
+
+Q 7) Ans – D (Go)
+
+Q 8) Ans – D (Transient) 
+
+Q 9) Ans – D (Parenthesis) 
+
+Q 10) Ans – B (Instance Variables) 
+
+Q 11) Ans – A (Group of Objects) 
+
+Q 12) Ans – C (Collection) 
+
+Q 13) Ans – D 
+
+Q 14) Ans – Garbage value 
+
+Q 15) Ans – Row 
+
+Q 16) Ans – B (&=) 
+
+Q 17) Ans – A , B 
+
+Q 18) Ans – D (8) 
+
+Q 19) Ans – Interface 
+
+Q 20) Ans – A (public) 
+
+Q 21) Ans – java.lang.Object
+
+Q 22) Ans – OneTwo 
+
+Q 23) Ans – B , C 
+
+Q 24) Ans – static class 
+
+Q 25) Ans -  Try 
+
+Q 26) Ans – Throwable 
+
+Q 27) Ans – Error
+
+Q 28) Ans – Throw 
+
+Q 29) Ans – Sleep 
+
+Q 30) Ans – Runnable 
+
+Q 31) Ans – B 
+
+Q 32) Ans – B (java.lang) 
+
+Q 33) Ans – Array 
+
+Q 34) Ans – A , B 
+
+Q 35) Ans – System 
+
+Q 36) Ans – D (None) 
+
+Q 37) Ans – Array List 
+
+Q 38) Ans – C (ArrayIndexOutOfBoundsException) 
+
+Q 39) Ans – A 
+
+Q 40) Ans – None 
+
+
+
+
+
+ 
